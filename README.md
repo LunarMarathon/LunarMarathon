@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 -->
 
 [![@lunarmarshmallow's Holopin board](https://holopin.io/api/user/board?user=lunarmarshmallow)](https://holopin.io/@lunarmarshmallow)
+<a href="https://novu.co/contributors/LunarMarathon/"><img src="https://contributors.novu.co/profiles/LunarMarathon-small.jpg" height="170" width="450" alt="" /></a>
